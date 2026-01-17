@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b136bf96-6303-4b61-8dd2-bed7c2f9dfa5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/config/ChatClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/config/ChatClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/config/PGVectorInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/config/VectorStoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/config/VectorStoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/controller/ChatBotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/controller/ChatBotController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/model/dto/BotResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/repo/OrderRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/repo/OrderRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/AIImageGeneratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/AIImageGeneratorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/ChatBotService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/ChatBotService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/telusko/springecomai/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/init/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/init/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-com-Frontend/src/components/AddProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../e-com-Frontend/src/components/AddProduct.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36eb57X57jAzeSEp5vL8kdc7rwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.zencoder-patch-add-chat-message-raw-content": "true",
+    "RunOnceActivity.zencoder-patch-generate-chat-message-id": "true",
+    "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
+    "RunOnceActivity.zencoder-patch-migrate-repo-info-to-rules": "true",
+    "Spring Boot.SpringEcomAiApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/ai-commerce-platform/SpringEcomAI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringEcomAiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringEcomAI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.telusko.springecomai.SpringEcomAiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b136bf96-6303-4b61-8dd2-bed7c2f9dfa5" name="Changes" comment="" />
+      <created>1765369797829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765369797829</updated>
+      <workItem from="1765369799071" duration="2359000" />
+      <workItem from="1765372212858" duration="1027000" />
+      <workItem from="1765432974846" duration="7814000" />
+      <workItem from="1765486785411" duration="21000" />
+      <workItem from="1765487020048" duration="38000" />
+      <workItem from="1766407930717" duration="1515000" />
+      <workItem from="1766466703869" duration="25000" />
+      <workItem from="1766488886011" duration="982000" />
+      <workItem from="1766551993252" duration="3448000" />
+      <workItem from="1766565315616" duration="760000" />
+      <workItem from="1767001186430" duration="4048000" />
+      <workItem from="1767071255095" duration="5000" />
+      <workItem from="1767071279526" duration="4345000" />
+      <workItem from="1768588669898" duration="2656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="ai.zencoder.plugin.mcp">
+    <option name="internalToolsState" value="{&quot;file_search&quot;:true,&quot;list_resources&quot;:true,&quot;fulltext_search&quot;:true,&quot;read_resource&quot;:true}" />
+  </component>
+</project>
